@@ -1,0 +1,15 @@
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\FavoriteFootballClub.exe
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\FavoriteFootballClub.deps.json
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\FavoriteFootballClub.runtimeconfig.json
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\FavoriteFootballClub.dll
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\ref\FavoriteFootballClub.dll
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\bin\Debug\net6.0\FavoriteFootballClub.pdb
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.vbproj.AssemblyReference.cache
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.AssemblyInfoInputs.cache
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.AssemblyInfo.vb
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.vbproj.CoreCompileInputs.cache
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.dll
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\ref\FavoriteFootballClub.dll
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.pdb
+C:\revature\mrmaxie876-code-thing\FavoriteFootballClub\obj\Debug\net6.0\FavoriteFootballClub.genruntimeconfig.cache
