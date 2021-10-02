@@ -1,6 +1,6 @@
 Class Clubs
-Property Teams As string
-    
-
+Property Name As String 
+  
+  
 
 End Class

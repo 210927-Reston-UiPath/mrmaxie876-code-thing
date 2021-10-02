@@ -1,8 +1,10 @@
 'all 20 english clubs
-list<Clubs> Clubs = New list<Clubs>()
-{
-    new Clubs {"A" = "Arsenal"},
-    new Clubs {"AV" = "Aston VIlla"},
+list
+Sub
+   list <Clubs> Clubs = New list<Clubs> (
+
+new Clubs {"A" = Aresenal.clubs},
+new Clubs {"AV" = "Aston VIlla"},
 new Clubs {"B" = "Brentford"},
 new Clubs {"BH"= "Brighton and Hove Albion"},
 new Clubs {"BU" = "Burnley"},
@@ -19,7 +21,12 @@ new Clubs {"Nor" = "Norwich City"},
 new Clubs {"Sou" = "Southampton"},
 new Clubs {"Spur" = "Spurs"},
 new Clubs {"West" = "Westham"},
-new Clubs {"W"= "Wolves"},
+new Clubs {"W"= "Wolves"},)
 
+end Sub show clubs
+(Arse
+    
+End Sub
 
 }
+

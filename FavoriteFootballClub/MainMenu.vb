@@ -1,7 +1,11 @@
 Class MainMenu
     Implements Teams
-    Sub Start() Implements Teams.Start, Teams.End
+    Dim clublist as list(of clubs) = new list(of clubs)
+    Sub Start() Implements Teams.Start
         Console.WriteLine("Hello Football Fan, a list of all 20 English Prem League Club is available to view")
+        ' Dim arsenal as clubs = new clubs()
+        ' arsenal.Name = "Arsenal"
+        ' clublist.add(arsenal)
         dim repeat as Boolean = true
         Do While repeat
             Console.WriteLine("What would you like to do?")
@@ -10,7 +14,14 @@ Class MainMenu
             Dim input as string = Console.ReadLine()
             Select Case input
                 Case "t"
-                    'maybe another method to list all teams?
+                ' Private  Function get (Aresenal.clubs, Astonvilla.clubs) As String 
+                '  Return 
+                     
+                '  End Function
+                '     Get {Club} = new.clubs; 
+                '         Return 
+                '     End Get
+                    ' don't define a function within a function you'll get an error as well 
                     AddTeam()
                 Case "x"
                     Console.WriteLine("Goodbye")
@@ -21,7 +32,7 @@ Class MainMenu
 
     Sub AddTeam()
         Console.WriteLine("Team Outside Prem: ")
-        dim Teams as string
+        dim Teams as string = Console.ReadLine()
         Console.WriteLine("League: ")
         dim League as string = Console.ReadLine()
 
